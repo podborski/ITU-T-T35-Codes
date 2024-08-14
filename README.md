@@ -157,7 +157,7 @@ The table below is based on the table from [this PDF file](https://cdn.cta.tech/
 
 ## Canadian Manufacturer Country Codes
 
-> Note: it looks like some of the entries placed under Canadian table need to be moved to US table.
+> Note: it looks like some of the entries in the [original PDF file](https://cdn.cta.tech/cta/media/media/resources/standards/pdfs/manucode_2021.pdf?_gl=1*jaalpc*_ga_5P7N8TBME7*MTcyMzU5Mzc5MS4yLjAuMTcyMzU5Mzc5MS42MC4wLjA.&_ga=2.255124232.1882931594.1723591512-1075915103.1723591512) have been placed under Canadian table by mistake. In the table below these entries have been moved to US table.
 
 | **Canadian Manufacturer (Country Code 0x20)**   | **First Byte** | **Second Byte** |
 |-------------------------------------------------|----------------|-----------------|
