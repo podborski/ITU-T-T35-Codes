@@ -150,7 +150,10 @@ The table below is based on the table from [this PDF file](https://cdn.cta.tech/
 | Broadband Networks, Inc                         | 0xBE           | 0xEF            |
 | Starbak Communications, Inc.                    | 0xCA           | 0XFE            |
 | Vocal Technologies, Ltd.                        | 0xFA           | 0xC5            |
-
+| Xperi Corporation                               | 0x58           | 0x43            |
+| Media Coding Industry Forum                     | 0x81           | 0x00            |
+| Apple Inc.                                      | 0x00           | 0x89            |
+| AOMedia (Alliance for Open Media)               | 0x58           | 0x90            |
 
 ## Canadian Manufacturer Country Codes
 
@@ -169,7 +172,3 @@ The table below is based on the table from [this PDF file](https://cdn.cta.tech/
 | Flashline Inc.                                  | 0x06           | 0x40            |
 | Vienna Systems                                  | 0x56           | 0x53            |
 | MediaDigm Technology Inc.                       | 0x58           | 0x78            |
-| Xperi Corporation                               | 0x58           | 0x43            |
-| Media Coding Industry Forum                     | 0x81           | 0x00            |
-| Apple Inc.                                      | 0x00           | 0x89            |
-| AOMedia (Alliance for Open Media)               | 0x58           | 0x90            |
