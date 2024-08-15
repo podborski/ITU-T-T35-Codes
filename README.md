@@ -1,4 +1,3 @@
-
 # T.35 Manufacturer Code Assignment for North America
 
 Manufacturers Codes  
