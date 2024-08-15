@@ -1,4 +1,4 @@
-Country Code,First Byte,Second Byte,Canadian Manufacturer
+Country Code,First Byte,Second Byte,Manufacturer
 0x20,0x00,0x80,Cifra Medical inc.
 0x20,0x00,0x81,MediaTriX Telecom Inc.
 0x20,0x00,0x82,Memotec Inc.

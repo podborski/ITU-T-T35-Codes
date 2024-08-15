@@ -1,4 +1,4 @@
-Country Code,First Byte,Second Byte,US Manufacturer
+Country Code,First Byte,Second Byte,Manufacturer
 0xB5,0x00,0x00,Compression Labs
 0xB5,0x00,0x01,PictureTel (Polycom)
 0xB5,0x00,0x02,Compression Labs (possibly not used)
