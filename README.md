@@ -1,14 +1,22 @@
-# T.35 Manufacturer Code Assignment for North America
+# T.35 Manufacturer Codes
+
+:warning: This is not an official document!
+
+Codes are also exported into to csv files:
+
+- [t35_usa.csv](t35_usa.csv)
+- [t35_canada.csv](t35_canada.csv)
+- ...
+
+# North America
+
+The table below is based on the table from [this PDF file](https://cdn.cta.tech/cta/media/media/resources/standards/pdfs/manucode_2021.pdf?_gl=1*jaalpc*_ga_5P7N8TBME7*MTcyMzU5Mzc5MS4yLjAuMTcyMzU5Mzc5MS42MC4wLjA.&_ga=2.255124232.1882931594.1723591512-1075915103.1723591512).
+
+> Note: In the tables below all contact information was removed.
 
 Manufacturers Codes  
 For H.32X Terminals  
 December 6, 2021
-
-:warning: This is not an official document!
-The table below is based on the table from [this PDF file](https://cdn.cta.tech/cta/media/media/resources/standards/pdfs/manucode_2021.pdf?_gl=1*jaalpc*_ga_5P7N8TBME7*MTcyMzU5Mzc5MS4yLjAuMTcyMzU5Mzc5MS42MC4wLjA.&_ga=2.255124232.1882931594.1723591512-1075915103.1723591512).
-
-
-> Note: In the table below all contact information was removed.
 
 ## US Manufacturer Country Codes
 
