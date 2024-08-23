@@ -4,8 +4,9 @@
 
 Codes are also exported into to csv files:
 
-- [t35_usa.csv](t35_usa.csv)
-- [t35_canada.csv](t35_canada.csv)
+- [t35_usa.csv](./t35_usa.csv)
+- [t35_canada.csv](./t35_canada.csv)
+- [t35_germany.csv](./t35_germany.csv)
 - ...
 
 # North America
@@ -179,3 +180,42 @@ December 6, 2021
 | Flashline Inc.                                  | 0x06           | 0x40            |
 | Vienna Systems                                  | 0x56           | 0x53            |
 | MediaDigm Technology Inc.                       | 0x58           | 0x78            |
+
+# Europe
+
+## Germany
+
+The table below is based on the table from [Bundesnetzagentur](https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Nummerierung/HKT/artikel.html?nn=697054).
+
+| German Manufacturer (Country Code 0x04)                                 | First Byte | Second Byte |
+|-------------------------------------------------------------------------|------------|-------------|
+| Deutsche Telekom AG                                                     | 0x42       | N/A         |
+| Deutsche Telekom AG                                                     | 0x43       | N/A         |
+| Siemens AG                                                              | 0x82       | N/A         |
+| ITO Communication                                                       | 0x84       | N/A         |
+| Hauni Elektronik                                                        | 0x86       | N/A         |
+| Dr. Neuhaus Mikroelektronik                                             | 0x88       | N/A         |
+| mps Software                                                            | 0x8A       | N/A         |
+| Ferrari electronik GmbH                                                 | 0x8B       | N/A         |
+| mbp Kommunikationssysteme GmbH                                          | 0x8C       | N/A         |
+| Schneider Rundfunkwerke AG                                              | 0x8D       | N/A         |
+| Digitronic computersysteme gmbh                                         | 0x8E       | N/A         |
+| DeTeWe - Deutsche Telephonwerke AG &Co                                  | 0x8F       | N/A         |
+| ITK Institut für Telekommunikation GmbH & Co KG                         | 0x90       | N/A         |
+| Regional-Code                                                           | 0xFF       | N/A         |
+| Innovaphone GmbH                                                        | 0x81       | 0x00        |
+| AVM Audiovisuelles Marketing und Computersysteme GmbH                   | 0x81       | 0x01        |
+| TEDAS Gesellschaft für Telekommunikations- Daten- und Audiosysteme mbH  | 0x81       | 0x02        |
+| EICON Technology Research GmbH                                          | 0x81       | 0x03        |
+| VIP Com                                                                 | 0x81       | 0x04        |
+| Universität Bremen                                                     | 0x81       | 0x05        |
+| Swyx Communications AG                                                  | 0x81       | 0x06        |
+| Tenovis GmbH & Co.KG                                                    | 0x81       | 0x07        |
+| snom technology AG                                                      | 0x81       | 0x08        |
+| LANCOM Systems GmbH                                                     | 0x81       | 0x09        |
+| TE-Systems GmbH                                                         | 0x81       | 0x0A        |
+| Teles AG                                                                | 0x81       | 0x0B        |
+| Stadtwerke Bad Kissungen GmbH                                           | 0x81       | 0x0C        |
+| Funkwerk Enterprise Communications GmbH                                 | 0x81       | 0x0D        |
+| EDV-Beratung Gert Döring                                               | 0x81       | 0x0E        |
+| Vierling Communication GmbH                                             | 0x81       | 0x0F        |
