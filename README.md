@@ -2,6 +2,9 @@
 
 :warning: This is not an official document!
 
+- [T.35 spec](https://www.itu.int/rec/T-REC-T.35/en).
+- [ITU Operational Bulletin](https://www.itu.int/pub/T-SP-OB.1001-2012/en) where you can find the list of athorities responsible for registration.
+
 Codes are also exported into to csv files:
 
 - [t35_usa.csv](./t35_usa.csv)
@@ -219,3 +222,13 @@ The table below is based on the table from [Bundesnetzagentur](https://www.bunde
 | Funkwerk Enterprise Communications GmbH                                 | 0x81       | 0x0D        |
 | EDV-Beratung Gert Döring                                               | 0x81       | 0x0E        |
 | Vierling Communication GmbH                                             | 0x81       | 0x0F        |
+
+## United Kingdom
+
+TBD based on https://www.cix.co.uk/~bpechey/H221/
+
+# Asia
+
+## Japan
+
+CTA [lists](https://www.cta.tech/Resources/Standards/Manufacturer-Codes) a conact person for Japan but it seems that this person is not reachable anymore.
