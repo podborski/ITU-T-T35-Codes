@@ -14,7 +14,9 @@ Codes are also exported into to csv files:
 
 # North America
 
-The table below is based on the table from [this PDF file](https://cdn.cta.tech/cta/media/media/resources/standards/pdfs/manucode_2021.pdf?_gl=1*jaalpc*_ga_5P7N8TBME7*MTcyMzU5Mzc5MS4yLjAuMTcyMzU5Mzc5MS42MC4wLjA.&_ga=2.255124232.1882931594.1723591512-1075915103.1723591512).
+For North America CTA takes care of registering codes for USA and Canada. Please refer to [this page](https://www.cta.tech/about/t35-manufacturer-codes/) for an official verson of the data below.
+
+The table below is based on the table from [this PDF file](https://cdn.cta.tech/cta/media/media/pdfs/manucode_2025.pdf?_gl=1*u8ywqe*_gcl_au*MjAyMTE1MTA0Ni4xNzQ0OTIwODMy*_ga*ODE5ODgzNDQxLjE3NDE3MjQ4OTA.*_ga_5P7N8TBME7*MTc0NDkyMDgzMS4yLjAuMTc0NDkyMDgzNS41Ni4wLjA.).
 
 > Note: In the tables below all contact information was removed.
 
@@ -168,7 +170,6 @@ December 6, 2021
 
 ## Canadian Manufacturer Country Codes
 
-> Note: it looks like some of the entries in the [original PDF file](https://cdn.cta.tech/cta/media/media/resources/standards/pdfs/manucode_2021.pdf?_gl=1*jaalpc*_ga_5P7N8TBME7*MTcyMzU5Mzc5MS4yLjAuMTcyMzU5Mzc5MS42MC4wLjA.&_ga=2.255124232.1882931594.1723591512-1075915103.1723591512) have been placed under Canadian table by mistake. In the table below these entries have been moved to US table.
 
 | **Canadian Manufacturer (Country Code 0x20)**   | **First Byte** | **Second Byte** |
 |-------------------------------------------------|----------------|-----------------|
