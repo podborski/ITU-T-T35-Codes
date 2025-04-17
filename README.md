@@ -7,9 +7,9 @@
 
 Codes are also exported into to csv files:
 
-- [t35_usa.csv](./t35_usa.csv)
-- [t35_canada.csv](./t35_canada.csv)
-- [t35_germany.csv](./t35_germany.csv)
+- [t35_usa.csv](./data/t35_usa.csv)
+- [t35_canada.csv](./data/t35_canada.csv)
+- [t35_germany.csv](./data/t35_germany.csv)
 - ...
 
 # North America
