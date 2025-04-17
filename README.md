@@ -1,9 +1,17 @@
 # T.35 Manufacturer Codes
 
-:warning: This is not an official document!
+### :warning: :warning: :warning: This is not an official document! :warning: :warning: :warning:
+
+This repository can be used to collect ITU T.35 codes in one place. Feel free to submit pull requests and add more T.35 codes.
+
+We can also collect commonly used T.35 codes and references to the payload definitions. E.g. HDR10+, DolbyVision, etc...
 
 - [T.35 spec](https://www.itu.int/rec/T-REC-T.35/en).
 - [ITU Operational Bulletin](https://www.itu.int/pub/T-SP-OB.1001-2012/en) where you can find the list of athorities responsible for registration.
+
+Here is an illustrative example demonstrating the functionality of T.35. Additionally, you may refer to the accompanying [slide deck](./T35_explainer.pdf) for further information.
+
+![T.35 example](./images/T.35.svg "T.35 Example")
 
 Codes are also exported into to csv files:
 
