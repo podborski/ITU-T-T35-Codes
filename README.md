@@ -13,6 +13,22 @@ Here is an illustrative example demonstrating the functionality of T.35. Additio
 
 ![T.35 example](./images/T.35.svg "T.35 Example")
 
+# Interactive Overview
+
+An automatically generated overview page with all T.35 codes is available at:
+**[https://podborski.github.io/ITU-T-T35-Codes/](https://podborski.github.io/ITU-T-T35-Codes/)**
+
+The overview page features:
+- Searchable table with all manufacturer codes from all countries
+- Filter by country
+- Automatic updates when CSV files are modified
+- Mobile-friendly responsive design
+
+To generate the overview page locally:
+```bash
+python3 generate_overview.py
+```
+
 # North America
 
 For North America CTA takes care of registering codes for USA and Canada. Please refer to [this page](https://www.cta.tech/about/t35-manufacturer-codes/) for an official verson of the data.
